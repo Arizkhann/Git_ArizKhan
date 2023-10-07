@@ -1,0 +1,21 @@
+git pull origin main
+
+ 
+
+ 
+
+Git contains various ares are :
+Working directory
+  staging area:
+   To add the files to the staging area
+   git add file_name
+   git add .
+
+local repo
+remore repo
+
+ 
+
+ 
+
+git add filename
