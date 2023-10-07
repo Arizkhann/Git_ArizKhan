@@ -1,3 +1,2 @@
-new file bilhbadh;d
-uvb.ujk
-sdsdd
+git checkout file_name :
+Used to undo the changes which you added in working directory
