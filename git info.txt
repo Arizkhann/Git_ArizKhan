@@ -26,3 +26,8 @@ for pushing->
 1.git add
 2.git commit -m "message"
 3.git push origin main
+
+
+
+
+for pasting in Git( ctrl+shift+insert)
